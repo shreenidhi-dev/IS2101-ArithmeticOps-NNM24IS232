@@ -26,11 +26,11 @@ These programs simulate how arithmetic operations are performed at the hardware 
 .README.md – Project description and instructions
 FOR COMPILETION:
 
-gcc ShiftAddMultiplication.c -o ShiftAddMultiplication
-./ShiftAddMultiplication
+gcc sequential Multiplication.c -o Sequential Multiplication
+./Sequential Multiplication
 gcc RestoringDivision.c -o RestoringDivision
 ./RestoringDivision
-gcc Non_Restoring_Algorithm.c -o NonRestoring
+gcc non_Restoring_Algorithm.c -o nonRestoring
 ./NonRestoring
 
 >OUTPUT OF SHIFT-ADD MULTIPLICATION.
